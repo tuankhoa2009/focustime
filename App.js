@@ -13,7 +13,7 @@ const STATUSES = {
 };
 
 export default function App() {
-  console.log("aa")
+  console.log("aaaaa")
   const [focusSubject, setFocusSubject] = useState(null);
   const [focusHistory, setFocusHistory] = useState([]);
 
